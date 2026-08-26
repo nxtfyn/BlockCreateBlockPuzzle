@@ -20,7 +20,6 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-haptics",
       [
         "expo-audio",
         {
